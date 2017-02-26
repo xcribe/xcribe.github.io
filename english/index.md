@@ -13,7 +13,7 @@ We are big on respecting your privacy, so we want to lay down this Privacy State
 
 When you visit xcribe, certain non-personally identifying information is recorded automatically by the standard operation of our servers in order to make things work and to create a cool online experience for you.
 
-## Personal Information You Provide To Ultimate Guitar
+## Personal Information You Provide To xcribe
 
 For example, you may provide info to us if you:
 
@@ -35,7 +35,7 @@ We may have links to third party-operated sites. xcribe is not responsible for t
 
 ## How Can You Correct or Review Your Personal Information?
 
-You can access and review your personal information by clicking on the Account setting within the app. If you prefer, you can also contact us by sending an email to xcribeapp@gmail.com (we only speak English and Spanish for the moment)
+You can access and review your personal information by clicking on the Account setting within the app. If you prefer, you can also contact us by sending an email to [xcribeapp@gmail.com](mailto:xcribeapp@gmail.com) (we only speak English and Spanish for the moment)
 
 ## Safeguarding Your Personal Information
 
@@ -47,7 +47,7 @@ We may store information about users and visitors on servers located in Europe a
 
 ## How to Contact Us
 
-If you have any questions or complaints about your privacy, you can contact our customer service department at xcribeapp@gmail.com.
+If you have any questions or complaints about your privacy, you can contact our customer service department at [xcribeapp@gmail.com](mailto:xcribeapp@gmail.com).
 
 ## Changes in This Privacy Policy
 
